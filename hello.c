@@ -6,6 +6,6 @@ the first hack1
 #include <stdio.h>
 
 int main(void) { 
-printf(" Joseph Almutawa/n" );
+printf(" Joseph Almutawa computer engineering major/n" );
 return 0;
 }
